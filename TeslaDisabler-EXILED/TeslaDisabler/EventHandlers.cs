@@ -17,9 +17,9 @@ namespace TeslaDisabler
          {
 
 
-            if (ev.Player.Team == Team.SCP  )
+            if (ev.Player.Team == Team.SCP && plugin.Config.SCP )
             {
-                ev.IsTriggerable = false && plugin.Config.SCP;
+                ev.IsTriggerable = false;
 
             }
             
