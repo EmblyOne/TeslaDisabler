@@ -33,7 +33,10 @@ namespace TeslaDisabler
         public bool gm { get; set; } = true;
 
         [Description("Enable disabling tesla for Mobile Task Force")]
-        public bool MTF { get; set; } = true; 
+        public bool MTF { get; set; } = true;
+
+        [Description("Enable disabling tesla for SCP")]
+        public bool SCP { get; set; } = true;
 
 
     }
