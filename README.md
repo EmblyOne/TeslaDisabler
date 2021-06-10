@@ -1,5 +1,5 @@
 # TeslaDisabler
-It is a good, simple plugin for your server. It will disable tesla for Class-D,MTF,Chaos Insurgency, Tutorial, Cuffed Players,Players with god mode. You can turn off disabling tesla in configs. Original taken from MrAfitol's Plugin. https://github.com/MrAfitol/TeslaCuffed
+It is a good, simple plugin for your server. It will disable tesla for Class-D,MTF,Chaos Insurgency, Tutorial, Cuffed Players,Players with god mode. You can turn off disabling tesla in configs. Original  the idea taken from MrAfitol's Plugin. https://github.com/MrAfitol/TeslaCuffed
 
 # Config
 ```yaml
